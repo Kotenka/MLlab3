@@ -13,3 +13,5 @@
 ![](https://github.com/dwragon/MLLab/blob/master/lab3/s7.png)
 ![](https://github.com/dwragon/MLLab/blob/master/lab3/s8.png)
 ![](https://github.com/dwragon/MLLab/blob/master/lab3/s9.png)
+![](https://github.com/Kotenka/MLlab3/blob/master/s10.png)
+![](https://github.com/Kotenka/MLlab3/blob/master/s11.png)
